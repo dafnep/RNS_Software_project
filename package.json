@@ -1,0 +1,41 @@
+{
+  "name": "rns_softeng_project",
+  "version": "1.0.0",
+  "description": "Semester Project of SoftEng",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/tzortzispanagiotis/rns_softeng_project.git"
+  },
+  "author": "Tzortzis Panagiotis, Dafne Papaefthimiou, Semina Mertzani, Stathis Stamatopoulos, Aggelos Plevris, Nasos Andreopoulos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/tzortzispanagiotis/rns_softeng_project/issues"
+  },
+  "homepage": "https://gitlab.com/tzortzispanagiotis/rns_softeng_project#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "connect-session-sequelize": "^6.0.0",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "joi": "^14.3.1",
+    "jsonwebtoken": "^8.4.0",
+    "mariadb": "^2.0.2-rc",
+    "method-override": "^3.0.0",
+    "mysql2": "^1.6.4",
+    "nodemailer": "^5.1.1",
+    "nodemon": "^1.18.10",
+    "npm": "^6.8.0",
+    "request-promise": "^4.2.4",
+    "sequelize": "^5.0.0-beta.15"
+  },
+  "devDependencies": {
+    "frisby": "^2.1.1",
+    "jest": "^24.1.0",
+    "supertest": "^3.4.2"
+  }
+}
