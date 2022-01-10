@@ -1,4 +1,4 @@
-Workspace preparation:
+ Workspace preparation:
 
 1) Download + install node.js
 https://nodejs.org/en/download/
